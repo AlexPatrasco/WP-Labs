@@ -3,6 +3,6 @@ WP-Labs
 
 ###Laboratory Projects for "Windows Programming" course###
 
-Student: Patrașco Alexandr
+Student: **Patrașco Alexandr**
 
-Group:   FAF-121
+Group:   **FAF-121**
